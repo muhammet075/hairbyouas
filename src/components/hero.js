@@ -15,7 +15,7 @@ function Hero() {
         <div>
             <section>
                 <h1>Welkom bij<br/> Hair By Ouas</h1>
-                <p>Hair By Ouas is al sinds 2003 dé specialist in herenknipbeurten in Krommenie en omstreken. Of je nu komt voor een strakke overloop fade of een klassiek kapsel, wij zorgen ervoor dat je er altijd scherp en fris uitziet!</p>
+                <p>Hair By Ouas is dé specialist in herenknipbeurten in Krommenie en omstreken. Of je nu komt voor een strakke overloop fade of een klassiek kapsel, wij zorgen ervoor dat je er altijd scherp en fris uitziet!</p>
 
                 <div>
                     <Link href="https://knipklok.nl/kapperszaak/hair-by-ouas" target="_blank">

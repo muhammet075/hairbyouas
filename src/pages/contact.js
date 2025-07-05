@@ -93,7 +93,7 @@ export default function Contact() {
             bericht: message,
         }
 
-        emailjs.send("service_qqvlrzs","template_db1qul7", emailData, "hd-ObYRK_EZCa3pyZ");
+        emailjs.send("service_xlpdrtw","template_db1qul7", emailData, "hd-ObYRK_EZCa3pyZ");
 
         document.querySelector(".contactforminner1").classList.add("displaynone");
         document.querySelector(".contactforminner2").classList.remove("displaynone");
