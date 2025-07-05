@@ -1,0 +1,56 @@
+.diensten > div{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.diensten > div > div:nth-of-type(1){
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.diensten > div > div:nth-of-type(1) > section > h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.diensten > div > div:nth-of-type(1) > section > h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.diensten > div > div:nth-of-type(1) > section > p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 35px;
+}
+
+.diensten > div > div:nth-of-type(1) > section > img{
+    max-width: 400px;
+    height: auto;
+    border-radius: 25px;
+}
+
+@media only screen and (max-width: 1215px) {
+    .diensten > div{
+        padding: 0 15px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .diensten > div > div:nth-of-type(1) > section > img{
+        max-width: 300px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .diensten > div > div:nth-of-type(1){
+        flex-direction: column;
+    }
+    .diensten > div > div:nth-of-type(1) > section > img{
+        max-width: 100%;
+    }
+}
