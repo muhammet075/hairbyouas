@@ -66,6 +66,7 @@ button{
 
 .smallheader{
   animation: showheader .3s forwards;
+  border-bottom: 3px solid var(--dedeKleur1);
 }
 
 @keyframes openhamburger {
