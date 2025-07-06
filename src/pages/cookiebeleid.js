@@ -14,7 +14,7 @@ export default function Cookiebeleid() {
           <meta name="description" content="Lees ons cookiebeleid om te begrijpen hoe Hair By Ouas cookies gebruikt op onze website en hoe deze uw gebruik beïnvloeden."/>
           <meta name="og:description" content="Lees ons cookiebeleid om te begrijpen hoe Hair By Ouas cookies gebruikt op onze website en hoe deze uw gebruik beïnvloeden."/>
           <meta name="keywords" content="cookies, cookiebeleid, privacy, website, stukadoorsbedrijf, Ince"/>
-          <meta property="og:url" content="https://www.kapperdede.com/cookiebeleid"/>
+          <meta property="og:url" content="https://www.hairbyouas.nl/cookiebeleid"/>
           <meta property="og:title" content="Cookiebeleid | Hair By Ouas"/>
       </Head>
 

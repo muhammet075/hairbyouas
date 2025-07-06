@@ -64,7 +64,7 @@ function Header() {
 
                     <ul>
                         <li><Link href="https://www.instagram.com/hairbyouas/" target="_blank"><Image src={Instagram} alt="Instagram logo"/></Link></li>
-                        <li><Link href="https://www.facebook.com/hairbyouas/" target="_blank"><Image src={Facebook} alt="Facebook logo"/></Link></li>
+                        {/* <li><Link href="https://www.facebook.com/hairbyouas/" target="_blank"><Image src={Facebook} alt="Facebook logo"/></Link></li> */}
                         <li><Link href="https://www.tiktok.com/@hairbyouas?lang=nl-NL" target="_blank"><Image src={Tiktok} alt="TikTok logo"/></Link></li>
                     </ul>
                 </div>

@@ -17,7 +17,7 @@ export default function Diensten() {
           <meta name="description" content="Ontdek de diensten van Hair By Ouas, van knippen tot styling en haarbehandelingen. Alles voor jouw haarbehoeften." />
           <meta name="og:description" content="Bekijk de verschillende diensten die Hair By Ouas aanbiedt, van knippen en kleuren tot styling en haarbehandelingen." />
           <meta name="keywords" content="diensten, Hair By Ouas, knippen, kleuren, haarstyling, haarbehandelingen, kapsalon" />
-          <meta property="og:url" content="https://www.kapperdede.com/diensten" />
+          <meta property="og:url" content="https://www.hairbyouas.nl/diensten" />
           <meta property="og:title" content="Diensten | Hair By Ouas" />
       </Head>
 

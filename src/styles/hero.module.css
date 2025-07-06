@@ -142,9 +142,21 @@
     margin: auto;
 }
 
+.hero > div > div > section:nth-of-type(2) > ul:first-of-type > li > a:hover{
+    opacity: .7;
+    transition: .2s ease;
+}
+
 .hero > div > div > section:nth-of-type(2) > ul:first-of-type > li:nth-of-type(2) > a{
     background-color: #fff;
     color: #000;
+}
+
+.hero > div > div > section:nth-of-type(2) > ul:first-of-type > li:nth-of-type(2) > a:hover{
+    background-color: #000;
+    color: #ffff;
+    opacity: 1;
+    transition: .3s ease;
 }
 
 .hero > div > div > section:nth-of-type(2) > ul:first-of-type > li > a > img{

@@ -16,7 +16,7 @@ export default function Kapperkrommenie() {
         <meta name="description" content="Hair By Ouas is dé specialist in herenknipbeurten in Krommenie en omstreken. Van strakke overloop fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="og:description" content="Hair By Ouas is dé specialist in herenknipbeurten in Krommenie en omstreken. Van strakke overloop fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="keywords" content="kapper Krommenie, herenkapsels, overloop, fade, opscheer, kapsalon Krommenie, strakke snit, knippen, baard trimmen, herenkapper Krommenie" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-krommenie" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-krommenie" />
         <meta property="og:title" content="Kapper Krommenie | Hair By Ouas" />
       </Head>
 

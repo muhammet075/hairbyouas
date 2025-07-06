@@ -14,7 +14,7 @@ export default function Privacybeleid() {
           <meta name="description" content="Lees het privacybeleid van Hair By Ouas. Wij beschermen uw persoonsgegevens en leggen uit hoe wij uw gegevens verzamelen, gebruiken en beveiligen."/>
           <meta name="og:description" content="Lees het privacybeleid van Hair By Ouas. Wij beschermen uw persoonsgegevens en leggen uit hoe wij uw gegevens verzamelen, gebruiken en beveiligen."/>
           <meta name="keywords" content="privacybeleid, persoonsgegevens, gegevensbescherming, Hair By Ouas, privacy"/>
-          <meta property="og:url" content="https://www.kapperdede.com/privacybeleid"/>
+          <meta property="og:url" content="https://www.hairbyouas.nl/privacybeleid"/>
           <meta property="og:title" content="Hair By Ouas - Privacybeleid"/>
       </Head>
 
@@ -75,8 +75,8 @@ export default function Privacybeleid() {
                 <p>Als u vragen heeft over dit privacybeleid of uw rechten wilt uitoefenen, kunt u contact met ons opnemen via:</p>
                 <ul>
                   <li>Hair By Ouas</li>
-                  <li>E-mailadres: <Link href="mailto:info@kapperdede.com">info@kapperdede.com</Link></li>
-                  <li>Telefoonnummer: 06 28 85 00 78</li>
+                  <li>E-mailadres: <Link href="mailto:info@hairbyouas.nl">info@kapperdede.com</Link></li>
+                  <li>Telefoonnummer: 06 28 18 52 57</li>
                   <li>Adres: Neptunuslaan 2A 1562XL Krommenie</li>
                 </ul>
 

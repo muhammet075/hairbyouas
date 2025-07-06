@@ -16,7 +16,7 @@ export default function Kapperzaandijk() {
         <meta name="description" content="Hair By Ouas is de expert in herenkapsels voor Zaandijk en omstreken. Van strakke fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="og:description" content="Hair By Ouas is de expert in herenkapsels voor Zaandijk en omstreken. Van strakke fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="keywords" content="kapper Zaandijk, herenkapsels, fade, overloop, opscheer, kapsalon Zaandijk, strakke snit, knippen, baard trimmen, herenkapper Zaandijk" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-zaandijk" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-zaandijk" />
         <meta property="og:title" content="Kapper Zaandijk | Hair By Ouas" />
       </Head>
 

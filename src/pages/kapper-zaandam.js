@@ -16,7 +16,7 @@ export default function Kapperzaandam() {
         <meta name="description" content="Op zoek naar de beste kapper in Zaandam? Hair By Ouas in Krommenie biedt hoogwaardige herenkapsels: van fade tot klassieke snit. Boek je afspraak vandaag nog!" />
         <meta name="og:description" content="Op zoek naar de beste kapper in Zaandam? Hair By Ouas in Krommenie biedt hoogwaardige herenkapsels: van fade tot klassieke snit. Boek je afspraak vandaag nog!" />
         <meta name="keywords" content="kapper Zaandam, herenkapsels, fade, overloop, opscheer, kapsalon Zaandam, strakke snit, baard trimmen" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-zaandam" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-zaandam" />
         <meta property="og:title" content="Kapper Zaandam | Hair By Ouas" />
       </Head>
 

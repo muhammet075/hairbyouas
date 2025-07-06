@@ -15,11 +15,11 @@ function Openingstijden() {
           <h2>Openingstijden</h2>
           <ul>
             <li><span><Image src={openIco} alt="Open icoon"/>Maandag</span> <span>12:00 - 18:00</span></li>
-            <li><span><Image src={openIco} alt="Open icoon"/>Dinsdag</span> <span>09:00 - 18:00</span></li>
-            <li><span><Image src={openIco} alt="Open icoon"/>Woensdag</span> <span>09:00 - 18:00</span></li>
-            <li><span><Image src={openIco} alt="Open icoon"/>Donderdag</span> <span>09:00 - 20:00</span></li>
-            <li><span><Image src={openIco} alt="Open icoon"/>Vrijdag</span> <span>09:00 - 18:00</span></li>
-            <li><span><Image src={openIco} alt="Open icoon"/>Zaterdag</span> <span>09:00 - 18:00</span></li>
+            <li><span><Image src={openIco} alt="Open icoon"/>Dinsdag</span> <span>09:30 - 18:00</span></li>
+            <li><span><Image src={openIco} alt="Open icoon"/>Woensdag</span> <span>09:30 - 18:00</span></li>
+            <li><span><Image src={openIco} alt="Open icoon"/>Donderdag</span> <span>09:30 - 20:00</span></li>
+            <li><span><Image src={openIco} alt="Open icoon"/>Vrijdag</span> <span>09:30 - 18:00</span></li>
+            <li><span><Image src={openIco} alt="Open icoon"/>Zaterdag</span> <span>09:30 - 18:00</span></li>
             <li><span><Image src={geslotenIco} alt="Gesloten icoon"/>Zondag</span> <span>Gesloten</span></li>
           </ul>
           <Link href="https://knipklok.nl/kapperszaak/hair-by-ouas/afspraak" target="_blank">Maak een afspraak</Link>

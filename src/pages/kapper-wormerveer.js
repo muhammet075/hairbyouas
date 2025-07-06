@@ -16,7 +16,7 @@ export default function Kapperwormerveer() {
         <meta name="description" content="Hair By Ouas in Krommenie is dé specialist in herenknipbeurten, met klanten uit Wormerveer. Van fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="og:description" content="Hair By Ouas in Krommenie is dé specialist in herenknipbeurten, met klanten uit Wormerveer. Van fades tot klassieke kapsels, wij zorgen voor de perfecte snit." />
         <meta name="keywords" content="kapper Wormerveer, herenkapsels, overloop, fade, opscheer, kapsalon Krommenie, strakke snit, knippen, baard trimmen, herenkapper Krommenie" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-wormerveer" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-wormerveer" />
         <meta property="og:title" content="Kapper Wormerveer | Hair By Ouas" />
       </Head>
 

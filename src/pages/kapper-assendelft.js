@@ -16,7 +16,7 @@ export default function Kapperassendelft() {
         <meta name="description" content="Op zoek naar de beste kapper in Assendelft? Hair By Ouas in Krommenie biedt hoogwaardige herenkapsels, van een strakke fade tot een klassieke snit. Boek nu!" />
         <meta name="og:description" content="Op zoek naar de beste kapper in Assendelft? Hair By Ouas in Krommenie biedt hoogwaardige herenkapsels, van een strakke fade tot een klassieke snit. Boek nu!" />
         <meta name="keywords" content="kapper Assendelft, herenkapsels, strakke fade, klassieke snit, opscheer, baard trimmen, kapsalon Krommenie" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-assendelft" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-assendelft" />
         <meta property="og:title" content="Kapper Assendelft | Hair By Ouas" />
       </Head>
 

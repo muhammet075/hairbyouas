@@ -14,7 +14,7 @@ export default function Algemenevoorwaarden() {
           <meta name="description" content="Algemene voorwaarden van Hair By Ouas. Lees meer over onze voorwaarden voor diensten, betalingen, aansprakelijkheid en meer."/>
           <meta name="og:description" content="Algemene voorwaarden van Hair By Ouas. Lees meer over onze voorwaarden voor diensten, betalingen, aansprakelijkheid en meer."/>
           <meta name="keywords" content="algemene voorwaarden, Hair By Ouas, diensten, betalingen, aansprakelijkheid"/>
-          <meta property="og:url" content="https://www.kapperdede.com/algemene-voorwaarden"/>
+          <meta property="og:url" content="https://www.hairbyouas.nl/algemene-voorwaarden"/>
           <meta property="og:title" content="Algemene Voorwaarden | Hair By Ouas"/>
       </Head>
 

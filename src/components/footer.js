@@ -33,15 +33,15 @@ function Footer() {
         <ul>
           <li><Link href="/"><Image src={Logo} alt="Logo van Hair By Ouas"/></Link></li>
           <li><b>E-Mail:</b> <Link href="mailto:info@hairbyouas.nl">info@hairbyouas.nl</Link></li>
-          <li><b>Telefoon:</b> 06 28 85 00 78</li>
+          <li><b>Telefoon:</b> 06 28 18 52 57</li>
           <li><b>KVK:</b> 94401985</li>
           <li><b>Adres:</b> Neptunuslaan 2A<br/> 1562XL Krommenie</li>
           <li>
             <ul>
               <li><Link href="https://www.instagram.com/hairbyouas/" target="_blank"><Image src={Instagram} alt="Instagram Logo"/></Link></li>
-              <li><Link href="https://www.facebook.com/hairbyouas/?locale=nl_NL" target="_blank"><Image src={Facebook} alt="Facebook Logo"/></Link></li>
+              {/* <li><Link href="https://www.facebook.com/hairbyouas/?locale=nl_NL" target="_blank"><Image src={Facebook} alt="Facebook Logo"/></Link></li> */}
               <li><Link href="https://www.tiktok.com/@hairbyouas?lang=nl-NL" target="_blank"><Image src={Tiktok} alt="TikTok Logo"/></Link></li>
-              <li><Link href="https://api.whatsapp.com/send/?phone=31628850078" target="_blank"><Image src={WhatsApp} alt="WhatsApp Logo"/></Link></li>
+              <li><Link href="https://api.whatsapp.com/send/?phone=31628185257" target="_blank"><Image src={WhatsApp} alt="WhatsApp Logo"/></Link></li>
             </ul>
           </li>
         </ul>

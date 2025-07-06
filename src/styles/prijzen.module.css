@@ -1,3 +1,10 @@
+.prijzen > div > h2{
+    margin-bottom: 50px;
+    color: #00ae12;
+    font-size: 26px;
+    font-weight: 500;
+}
+
 .prijzen > div{
     max-width: 1200px;
     margin: 0 auto;

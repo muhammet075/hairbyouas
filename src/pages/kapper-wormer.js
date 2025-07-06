@@ -16,7 +16,7 @@ export default function Kapperwormer() {
         <meta name="description" content="Hair By Ouas biedt herenkapsels van topkwaliteit in Wormer. Van strakke fades tot klassieke kapsels, bij ons ben je altijd in goede handen." />
         <meta name="og:description" content="Hair By Ouas biedt herenkapsels van topkwaliteit in Wormer. Van strakke fades tot klassieke kapsels, bij ons ben je altijd in goede handen." />
         <meta name="keywords" content="kapper Wormer, herenkapsels, fade, overloop, opscheer, kapsalon Wormer, strakke snit, baard trimmen, herenkapper Wormer" />
-        <meta property="og:url" content="https://www.kapperdede.com/kapper-wormer" />
+        <meta property="og:url" content="https://www.hairbyouas.nl/kapper-wormer" />
         <meta property="og:title" content="Kapper Wormer | Hair By Ouas" />
       </Head>
 
