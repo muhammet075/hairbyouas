@@ -75,7 +75,7 @@ export default function Privacybeleid() {
                 <p>Als u vragen heeft over dit privacybeleid of uw rechten wilt uitoefenen, kunt u contact met ons opnemen via:</p>
                 <ul>
                   <li>Hair By Ouas</li>
-                  <li>E-mailadres: <Link href="mailto:info@hairbyouas.nl">info@kapperdede.com</Link></li>
+                  <li>E-mailadres: <Link href="mailto:info@hairbyouas.nl">info@hairbyouas.nl</Link></li>
                   <li>Telefoonnummer: 06 28 18 52 57</li>
                   <li>Adres: Neptunuslaan 2A 1562XL Krommenie</li>
                 </ul>
