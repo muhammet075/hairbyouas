@@ -22,18 +22,17 @@ export default function Prijzen() {
 
 
       <div className={styles.prijzen}> 
-        
-        <div><h2>De onderstaande prijzen gelden als openingsaanbieding.</h2></div>
- 
+       
         <div>
           <section>
               <h2>Heren</h2>
               <ul>
-                <li><span>Knippen / drogen</span><span>&euro; 22,00</span></li>
+                <li><span>Knippen / drogen</span><span>&euro; 25,00</span></li>
                 <li><span>Knippen / milimeteren</span><span>&euro; 15,00</span></li>
+                <li><span>Knippen / scheren met baard</span><span>&euro; 30,00</span></li>
                 <li><span>Knippen / scheren</span><span>&euro; 30,00</span></li>
                 <li><span>Baard trimmen</span><span>&euro; 15,00</span></li>
-                <li><span>65+ knippen</span><span>&euro; 17,00</span></li>
+                <li><span>65+ knippen</span><span>&euro; 20,00</span></li>
               </ul>
           </section>
 
@@ -45,11 +44,11 @@ export default function Prijzen() {
           </section>
 
           <section>
-              <h2>Kinderen t/m 12 jaar</h2>
+              <h2>Kinderen t/m 11 jaar</h2>
               <ul>
-                <li><span>Knippen</span><span>&euro; 17,50</span></li>
-                <li><span>Knippen / scheren</span><span>&euro; 17,50</span></li>
-                <li><span>Knippen (Meisjes)</span><span>&euro; 17,50</span></li>
+                <li><span>Knippen</span><span>&euro; 20,00</span></li>
+                <li><span>Knippen / scheren</span><span>&euro; 20,00</span></li>
+                <li><span>Knippen (Meisjes)</span><span>&euro; 20,00</span></li>
               </ul>
           </section>
 

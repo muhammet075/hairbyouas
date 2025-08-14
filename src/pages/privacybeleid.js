@@ -76,7 +76,7 @@ export default function Privacybeleid() {
                 <ul>
                   <li>Hair By Ouas</li>
                   <li>E-mailadres: <Link href="mailto:info@hairbyouas.nl">info@hairbyouas.nl</Link></li>
-                  <li>Telefoonnummer: 06 28 18 52 57</li>
+                  <li>Telefoonnummer: 06 28 85 00 78</li>
                   <li>Adres: Neptunuslaan 2A 1562XL Krommenie</li>
                 </ul>
 
