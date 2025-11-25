@@ -15,7 +15,7 @@ function Instagram() {
                     <h2>Volg ons op Instagram</h2>
                     <Link href="https://www.instagram.com/hairbyouas" target="_blank"><Image src={instaIco} alt="Instagram logo"/></Link>
                 </section>
-                <div className="elfsight-app-ad5054db-2a97-46d0-8235-d11b39c458e6" data-elfsight-app-lazy></div>
+                <div class="elfsight-app-dc25df88-353d-49f6-a7ee-0a68473939be" data-elfsight-app-lazy></div>
             </div>
         </div>
     )
